@@ -1,0 +1,2 @@
+# hardening
+for my script
